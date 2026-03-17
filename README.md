@@ -3,7 +3,7 @@
 
 This repository presents a rigorous computational study of malaria epidemiology. The project utilizes a deterministic **SEIR (Susceptible-Exposed-Infectious-Recovered)** framework, augmented by **Bayesian Markov Chain Monte Carlo (MCMC)** methods to calibrate parameters against stochastic real-world data.
 
-## 🔬 Research Overview
+## Research Overview
 Conventional epidemiological models often rely on fixed parameters that fail to account for the stochastic nature of disease transmission. This project addresses this by implementing a Bayesian hierarchical model to estimate the posterior distributions of the transmission rate ($\beta$) and the incubation rate ($\eta$). The result is a probabilistic forecast that quantifies uncertainty in public health outcomes.
 
 ### Core Objectives:
@@ -12,7 +12,7 @@ Conventional epidemiological models often rely on fixed parameters that fail to 
 3.  **Stability Analysis:** Utilizing the **Jacobian Matrix** and eigenvalue analysis to evaluate the local asymptotic stability of the disease-free equilibrium.
 4.  **Counterfactual Policy Simulation:** Quantifying the impact of a 30% reduction in $\beta$ (simulating Insecticide-Treated Net interventions) on the effective reproduction number.
 
-## 🧮 Mathematical Formulation
+## Mathematical Formulation
 
 ### 1. The SEIR System Dynamics
 The population flow is governed by the following system of non-linear ODEs:
@@ -38,7 +38,7 @@ $$Y_t \sim \text{NB}(\mu_t, \phi)$$
 
 Where $\mu_t$ is the model-predicted incidence and $\phi$ is the concentration parameter. We assign weakly informative **Half-Normal priors** to the rates to ensure positivity and model convergence.
 
-## 📊 Computational Implementation
+## Computational Implementation
 
 ### Data Pipeline
 * **Solver:** `SciPy.integrate.solve_ivp` using the Runge-Kutta 45 method.
@@ -50,7 +50,7 @@ Where $\mu_t$ is the model-predicted incidence and $\phi$ is the concentration p
 * **Sensitivity Analysis (FIG 5):** A bivariate analysis illustrating the relationship between recovery kinetics and transmission intensity.
 * **Intervention Efficacy (FIG 6):** Comparative visualization of the "Averted Cases" metric, demonstrating the non-linear relationship between transmission reduction and total disease burden.
 
-## 🚀 Execution
+## Execution
 ```bash
 # Clone the repository
 git clone [https://github.com/liobalinus-tech/SEIR_Modelling.git](https://github.com/liobalinus-tech/SEIR_Modelling.git)
