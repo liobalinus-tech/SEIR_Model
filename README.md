@@ -18,13 +18,17 @@ The model generates six critical clinical visuals (located in the /figures direc
 * Strategic Sensitivity Analysis: Heatmap identifying peak clinical loads under varying transmission/recovery rates.
 * Policy Simulation: Quantitative impact of intervention strategies, such as bed-net distribution.
 ### Getting Started
+
 **Prerequisites**
-Ensure you have the following libraries installed:\
+Ensure you have the following libraries installed:
+
 *Bash*\
 pip install numpy pymc arviz matplotlib seaborn scipy pytensor\
 **Execution**\
-To run the full simulation and generate all figures, execute:\
+To run the full simulation and generate all figures, execute:
+
 *Bash*\
-python main.py\
+python main.py
+
 **Research Documentation**\
-For a deep dive into the mathematical proofs, clinical parameter selection, and socio-economic analysis, please refer to the Mini-Thesis PDF included in this repository.
+For a deep dive into the mathematical proofs, clinical parameter selection, and socio-economic analysis, please refer to the SEIR PDF included in this repository.
