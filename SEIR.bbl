@@ -1,0 +1,106 @@
+\begin{thebibliography}{14}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[of~Health and Namibia(2023)]{3}
+Ministry of~Health and Social~Services Namibia.
+\newblock National malaria strategic plan 2023--2027.
+\newblock Technical report, MoHSS, Windhoek, Namibia, 2023.
+
+\bibitem[Alegana et~al.(2016)Alegana, Atkinson, Louren{\c{c}}o, et~al.]{9}
+Victor~A. Alegana, Peter~M. Atkinson, Christopher Louren{\c{c}}o, et~al.
+\newblock Advances in mapping malaria for elimination: fine resolution
+  modelling of plasmodium falciparum incidence.
+\newblock \emph{Scientific Reports}, 6\penalty0 (1), July 2016.
+\newblock ISSN 2045-2322.
+\newblock \doi{10.1038/srep29628}.
+\newblock URL \url{http://dx.doi.org/10.1038/srep29628}.
+
+\bibitem[Anderson and May(1991)]{1}
+Roy~M. Anderson and Robert~M. May.
+\newblock \emph{Infectious Diseases of Humans: Dynamics and Control}.
+\newblock Oxford University Press, 1991.
+
+\bibitem[Salvatier et~al.(2016)Salvatier, Wiecki, and Fonnesbeck]{2}
+John Salvatier, Thomas~V. Wiecki, and Christopher Fonnesbeck.
+\newblock Probabilistic programming in python using pymc3.
+\newblock \emph{PeerJ Computer Science}, 2:\penalty0 e55, April 2016.
+\newblock ISSN 2376-5992.
+\newblock \doi{10.7717/peerj-cs.55}.
+\newblock URL \url{http://dx.doi.org/10.7717/peerj-cs.55}.
+
+\bibitem[Diekmann et~al.(2012)Diekmann, Heesterbeek, and Britton]{12}
+Odo Diekmann, Hans Heesterbeek, and Tom Britton.
+\newblock \emph{Mathematical Tools for Understanding Infectious Disease
+  Dynamics}.
+\newblock Princeton University Press, 2012.
+
+\bibitem[White(2011)]{7}
+Nicholas~J White.
+\newblock Determinants of relapse periodicity in plasmodium vivax malaria.
+\newblock \emph{Malaria Journal}, 10\penalty0 (1), October 2011.
+\newblock ISSN 1475-2875.
+\newblock \doi{10.1186/1475-2875-10-297}.
+\newblock URL \url{http://dx.doi.org/10.1186/1475-2875-10-297}.
+
+\bibitem[Brauer and Castillo-Chavez(2012)]{11}
+Fred Brauer and Carlos Castillo-Chavez.
+\newblock \emph{Mathematical Models in Population Biology and Epidemiology}.
+\newblock Springer New York, 2012.
+\newblock \doi{10.1007/978-1-4614-1686-9}.
+
+\bibitem[Smith et~al.(2012)Smith, Battle, Hay, et~al.]{15}
+David~L. Smith, Katherine~E. Battle, Simon~I. Hay, et~al.
+\newblock Ross, macdonald, and a theory for the dynamics and control of
+  mosquito-transmitted pathogens.
+\newblock \emph{PLoS Pathogens}, 8\penalty0 (4), 2012.
+\newblock \doi{10.1371/journal.ppat.1002588}.
+
+\bibitem[Keeling and Rohani(2008)]{6}
+Matt~J. Keeling and Pejman Rohani.
+\newblock \emph{Modeling Infectious Diseases in Humans and Animals}.
+\newblock Princeton University Press, 2008.
+\newblock ISBN 9780691116174.
+\newblock URL \url{http://www.jstor.org/stable/j.ctvcm4gk0}.
+
+\bibitem[Kruschke(2014)]{17}
+John~K. Kruschke.
+\newblock \emph{Doing Bayesian Data Analysis: A Tutorial with {R}, {JAGS}, and
+  {Stan}}.
+\newblock Academic Press, 2014.
+
+\bibitem[Hoffman and Gelman(2014)]{5}
+Matthew~D. Hoffman and Andrew Gelman.
+\newblock The no-u-turn sampler: Adaptively setting path lengths in hamiltonian
+  monte carlo.
+\newblock \emph{Journal of Machine Learning Research}, 15\penalty0
+  (47):\penalty0 1593--1623, 2014.
+\newblock URL \url{http://jmlr.org/papers/v15/hoffman14a.html}.
+
+\bibitem[Cauchemez and Ferguson(2008)]{18}
+Simon Cauchemez and Neil~M. Ferguson.
+\newblock Likelihood-based estimation of continuous-time epidemic models from
+  time-series data.
+\newblock \emph{Journal of the Royal Society Interface}, 5\penalty0
+  (25):\penalty0 885--897, 2008.
+\newblock \doi{10.1098/rsif.2007.1292}.
+
+\bibitem[Gelman et~al.(2013)Gelman, Carlin, Stern, et~al.]{10}
+Andrew Gelman, John~B. Carlin, Hal~S. Stern, et~al.
+\newblock \emph{Bayesian Data Analysis}.
+\newblock CRC Press, Boca Raton, FL, 2013.
+
+\bibitem[Bhatt et~al.(2015)Bhatt, Weiss, Cameron, et~al.]{8}
+S.~Bhatt, D.~J. Weiss, E.~Cameron, et~al.
+\newblock The effect of malaria control on plasmodium falciparum in africa
+  between 2000 and 2015.
+\newblock \emph{Nature}, 526\penalty0 (7572):\penalty0 207--211, September
+  2015.
+\newblock ISSN 1476-4687.
+\newblock \doi{10.1038/nature15535}.
+\newblock URL \url{http://dx.doi.org/10.1038/nature15535}.
+
+\end{thebibliography}
